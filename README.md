@@ -1,0 +1,2 @@
+# GoogleScholarAdvancedSearch_Generator
+Google Scholar Advanced Search Generator
